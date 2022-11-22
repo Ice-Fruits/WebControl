@@ -1,6 +1,6 @@
 {
-	"openedLevel":[true,false,false,false],
-	"openActivity":[false,false],
-	"openedEggs":[false,false,false,false],
+	"openedLevel":[true,true,false,false],
+	"openActivity":[true,false],
+	"openedEggs":[true,true,false,false],
 	"shopOpened":true
 }
