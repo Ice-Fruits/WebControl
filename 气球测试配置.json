@@ -2,7 +2,7 @@
 	"openedLevel":[[true,true,true],[false,false,false],[false,false,false],[false,false,false]],
 	"openActivity":[true,false],
 	"openedEggs":[true,false,false,false],
-	"shopOpened":true
+	"shopOpened":true,
 	"exchangeCode":[{
 	    code:'WSJBJY2022',
 	    reward:{
