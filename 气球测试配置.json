@@ -1,6 +1,15 @@
 {
-	"openedLevel":[[true,true,true],[true,true,true],[false,false,false],[false,false,false]],
-	"openActivity":[true,false],
-	"openedEggs":[true,true,false,false],
-	"shopOpened":true
+	openedLevel:[[true,true,true],[false,false,false],[false,false,false],[false,false,false]],
+	openActivity:[true,false],
+	openedEggs:[true,false,false,false],
+	shopOpened:true,
+	exchangeCode:[{
+	    code:'WSJBJY2022',
+	    reward:{
+		coin:0,
+		strength:0,
+		balloon:13,
+	    },
+	    tern:'2022-12-6'   
+	}]
 }
