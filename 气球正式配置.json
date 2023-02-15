@@ -1,7 +1,7 @@
 {
-	"openedLevel":[[true,true,true],[true,true,true],[true,true,true],[false,false,false]],
+	"openedLevel":[[true,true,true],[true,true,true],[true,true,true],[true,true,true]],
 	"openActivity":[true,true],
-	"openedEggs":[true,true,true,false],
+	"openedEggs":[true,true,true,true],
 	"shopOpened":true,
 	"exchangeCode":[{
 	    "code":"WSJBJY2022",
