@@ -1,6 +1,6 @@
 {
 	"openedLevel":[[true,true,true],[true,true,true],[true,true,true],[true,true,true]],
-	"openActivity":[true,true],
+	"openActivity":[false,false],
 	"openedEggs":[true,true,true,true],
 	"shopOpened":true,
 	"exchangeCode":[{
